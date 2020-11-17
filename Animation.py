@@ -1,6 +1,3 @@
-# script animation.py
-#(C) Fabrice Sincère
-
 from tkinter import *
 import math,random
 
